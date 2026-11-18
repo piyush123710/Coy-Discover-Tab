@@ -1,0 +1,6 @@
+{
+  "name": "Coy — Discover",
+  "description": "Privacy-first swipe-based discovery experience with mutual matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
